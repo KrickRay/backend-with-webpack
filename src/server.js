@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
             <title>Hello World!</title>
         </head>
         <body>
-            <h1 id="header">Hello =></h1>
+            <h1 id="header">Hello world!</h1>
             <button id="button">Change color</button>
             <script src="http://localhost:5001/client.js"></script>
         </body>

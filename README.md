@@ -2,11 +2,14 @@
 
 This is a simple project to demo building backend apps with webpack.
 
+![anim](https://media.giphy.com/media/xT9DPQmkujrol6upX2/giphy.gif)
+
 ## Features
 
 - Webpack
 - Hot-reload/watch
-- Babel
+- Babel ES2015, ES2016 stage 1
+- Express
 
 ## To use
 
