@@ -1,14 +1,21 @@
+# Server code (backend) build (webpack) and hot-reload/watch example
 
-This is a very simple project to demo building backend apps with
-webpack. To use:
+This is a simple project to demo building backend apps with webpack.
+
+## Features
+
+- Webpack
+- Hot-reload/watch
+- Babel
+
+## To use
 
 1. `npm install`
-2. `gulp run`
+2. `npm start`
 
-The latest version implements everything in [Backend Apps with Webpack: Part III](http://jlongster.com/Backend-Apps-with-Webpack--Part-III), allowing hot-patching of functions. This is also available on the frontend, so we've somewhat outgrown the name of this repo.
+## You can read
 
-This is meant to along with my posts. Each post corresponds to a branch:
-
-* [Backend Apps with Webpack: Part I](http://jlongster.com/Backend-Apps-with-Webpack--Part-I) - part1
-* [Backend Apps with Webpack: Part II](http://jlongster.com/Backend-Apps-with-Webpack--Part-II) - part2a and part2b
-* [Live Editing with Webpack: Part III](http://jlongster.com/Backend-Apps-with-Webpack--Part-III) - part3 (or master)
+* [Based repository](https://github.com/jlongster/backend-with-webpack)
+* [Backend Apps with Webpack: Part I](http://jlongster.com/Backend-Apps-with-Webpack--Part-I) - [part1](https://github.com/jlongster/backend-with-webpack/tree/part1), [part1-es6](https://github.com/jlongster/backend-with-webpack/tree/part1-es6)
+* [Backend Apps with Webpack: Part II](http://jlongster.com/Backend-Apps-with-Webpack--Part-II) - [part2a](https://github.com/jlongster/backend-with-webpack/tree/part2a), [part2b](https://github.com/jlongster/backend-with-webpack/tree/part2b)
+* [Live Editing with Webpack: Part III](http://jlongster.com/Backend-Apps-with-Webpack--Part-III) - [part3 (master)](https://github.com/jlongster/backend-with-webpack/tree/master)
